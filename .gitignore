@@ -1,3 +1,7 @@
+# VS Code
+pnpm-lock.yaml
+.vscode
+
 # Logs
 logs
 *.log

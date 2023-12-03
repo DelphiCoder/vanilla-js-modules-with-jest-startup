@@ -1,0 +1,39 @@
+{
+  "name": "vanilla-js-modules-with-jest-startup",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript skeleton with Jest support for ESM modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelphiCoder/vanilla-js-modules-with-jest-startup.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "tests",
+    "testing",
+    "vanilla",
+    "javascript",
+    "ecmascript",
+    "es6",
+    "esmodules",
+    "modules",
+    "module",
+    "esm",
+    "startup",
+    "skeleton",
+    "starter",
+    "simple",
+    "plain"
+  ],
+  "type": "module",
+  "author": "Douglas P. Counts",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.23.3",
+    "jest": "^29.7.0"
+  }
+}
